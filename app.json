@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "blog-elhadede",
+    "slug": "snack-4d120fe5-9e54-43b2-ba59-6d7f4a35848b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.p7l.snack4d120fe59e5443b2ba596d7f4a35848b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
